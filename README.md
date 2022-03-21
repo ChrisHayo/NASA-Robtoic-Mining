@@ -49,7 +49,7 @@ Milestone 4 (Feb 14)
 
 Milestone 5 (Mar 21)
 * [Poster](url)
-* [e-book page](url)
+* [e-book page](https://docs.google.com/document/d/1--dDumIALGifT1pjl3s-Y3wqgm30eash8TM6rDSB8Pc/edit?usp=sharing)
 * [Presentation](url)
 * [Progress Evaluation](url)
 
