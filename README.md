@@ -50,7 +50,7 @@ Milestone 4 (Feb 14)
 Milestone 5 (Mar 21)
 * [Poster](url)
 * [e-book page](https://docs.google.com/document/d/1--dDumIALGifT1pjl3s-Y3wqgm30eash8TM6rDSB8Pc/edit?usp=sharing)
-* [Presentation](url)
+* [Presentation](https://docs.google.com/presentation/d/1g5VCcTI_ppB3FBD9xuoCjN9E8MoGh4gs8MdGjcuCQns/edit?usp=sharing)
 * [Progress Evaluation](https://docs.google.com/document/d/1VVEBT1A6ts9WArbd5KVSxtfv5aiZzt1xNPWn5ziLu-M/edit?usp=sharing)
 
 Milestone 6 (Apr 18)
