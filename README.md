@@ -48,7 +48,7 @@ Milestone 4 (Feb 14)
 * [Progress Evaluation](https://docs.google.com/document/d/1q_ydSto4OxIVbBMKAdhAGqSo8oGaI0wQFVK342OTYRk/edit?usp=sharing)
 
 Milestone 5 (Mar 21)
-* [Poster](url)
+* [Poster](https://docs.google.com/presentation/d/14p7yl6osKJ9mQ4zL0iuS_x-bHupPPlBK/edit?usp=sharing&ouid=109925097899709774878&rtpof=true&sd=true)
 * [e-book page](https://docs.google.com/document/d/1--dDumIALGifT1pjl3s-Y3wqgm30eash8TM6rDSB8Pc/edit?usp=sharing)
 * [Presentation](https://docs.google.com/presentation/d/1g5VCcTI_ppB3FBD9xuoCjN9E8MoGh4gs8MdGjcuCQns/edit?usp=sharing)
 * [Progress Evaluation](https://docs.google.com/document/d/1VVEBT1A6ts9WArbd5KVSxtfv5aiZzt1xNPWn5ziLu-M/edit?usp=sharing)
