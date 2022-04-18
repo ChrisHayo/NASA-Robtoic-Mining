@@ -54,7 +54,7 @@ Milestone 5 (Mar 21)
 * [Progress Evaluation](https://docs.google.com/document/d/1VVEBT1A6ts9WArbd5KVSxtfv5aiZzt1xNPWn5ziLu-M/edit?usp=sharing)
 
 Milestone 6 (Apr 18)
-* [User and/or Developer Manual](url)
+* [User and/or Developer Manual](https://docs.google.com/document/d/12fMBPRqWf-rVrvBQvPqAdb3vewAiY7suwJp1QwMfDo4/edit?usp=sharing)
 * [Demo Video](url)
 * [Presentation](url)
 * [Progress Evaluation](url)
